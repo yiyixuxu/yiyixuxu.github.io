@@ -35,7 +35,6 @@ titles_from_headings:
   collections: true
 
 show_excerpts: true
-excerpt_separator: <!--more-->
 
 defaults:
   - scope:
