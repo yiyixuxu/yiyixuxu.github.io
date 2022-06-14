@@ -94,7 +94,7 @@ If I search __"she introduce Brad Pitt as Italian stuntman"__, it returned the e
 
 ![She introduce Brad Pitt as Italian stuntman](/images/stuntman.png) 
 
-Now let's make it even more fun! What if I search __"Bridget introduced Brad Pitt as camera assistant Dominick"__? This is a lie because she introduced Omar as the camera assistant, not Brad Pitt. And we already knew that the app recognizes Brad Pitt. What would it do now?  Ohhh looks like it abandoned Brad Pitt :P
+Now let's make it even more fun! What if I search __"Bridget introduced Brad Pitt as camera assistant Dominick"__? This is a lie because she introduced Omar as the camera assistant, not Brad Pitt. And we already knew that the app recognizes Brad Pitt. What would it do now?  Ohhh looks like it sees right through our trick :P
 
 ![Bridget introduced Brad Pitts as camera assistant Dominick](/images/Dominick.png)
 
