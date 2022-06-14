@@ -47,7 +47,7 @@ And of course, searching __"a wide shot of Deborah practicing her ballet"__ will
 
 ### Paths of Glory
 
-The [ending of Paths of Glory](https://youtu.be/s3ifRA0Kj-8) holds a special place in my heart. It's a movie about war. This particular scene took place in a bar, where a captured German girl was forced to sing for French soldiers. As she started to sing, the rowdy crowd became silent. The soldiers started to hum along and many of them teared up. I vividly remember how the camera moved from face to face and the soldiers' facial expressions changed. This scene is incredibly emotional. I think it is a perfect example to test the app's ability to __identify emotions__. 
+The [ending of Paths of Glory](https://youtu.be/s3ifRA0Kj-8) holds a special place in my heart. It's a movie about war. This particular scene took place in a bar, where a captured German girl was forced to sing for French soldiers. As she started to sing, the rowdy crowd became silent. The soldiers started to hum along and many of them teared up. I vividly remember how the camera moved from face to face and the soldiers' facial expressions changed. This scene is incredibly emotional. I think it is a perfect example to test the app's ability to __identify emotions__. And here are the results
 
 It understands "rowdy"
 
@@ -92,7 +92,7 @@ If I search __"she introduce Brad Pitt as Italian stuntman"__, it returned the e
 
 ![She introduce Brad Pitt as Italian stuntman](/images/stuntman.png) 
 
-Now let's make it even more fun! What if I search __"Bridget introduced Brad Pitt as camera assistant Dominick"__? This is a lie because she introduced Omar as the camera assistant, not Brad Pitt. We already knew that the app recognizes Brad Pitt. What would it do now?  Looks like it abandoned Brad Pitt! 
+Now let's make it even more fun! What if I search __"Bridget introduced Brad Pitt as camera assistant Dominick"__? This is a lie because she introduced Omar as the camera assistant, not Brad Pitt. We already knew that the app recognizes Brad Pitt. What would it do now?  Ohhh looks like it abandoned Brad Pitt:P
 
 ![Bridget introduced Brad Pitts as camera assistant Dominick](/images/Dominick.png)
 
@@ -100,7 +100,6 @@ Now let's make it even more fun! What if I search __"Bridget introduced Brad Pit
 ## Conclusion
 
 In this post, we've seen examples demonstrating how well CLIP understands what's happening inside each frame of a movie. CLIP is truly an incredible and powerful model. Feel free to play with [the app](https://huggingface.co/spaces/YiYiXu/it-happened-one-frame-2) yourself and let me know what you found:) 
-
 
 
 
