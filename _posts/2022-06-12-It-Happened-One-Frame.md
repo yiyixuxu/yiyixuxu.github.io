@@ -47,7 +47,7 @@ And of course, searching __"a wide shot of Deborah practicing her ballet"__ will
 
 ### Paths of Glory
 
-The [ending of Paths of Glory](https://youtu.be/s3ifRA0Kj-8) holds a special place in my heart. It's a movie about war. This particular scene took place in a bar, where a captured German girl was forced to sing for French soldiers. As she started to sing, the rowdy crowd became silent. The soldiers started to hum along and many of them teared up. I vividly remember how the camera moved from face to face and the soldiers' facial expressions changed. This scene is incredibly emotional. I think it is a perfect example to test the app's ability to __identify emotions__. And here are the results
+The [ending of Paths of Glory](https://youtu.be/s3ifRA0Kj-8) holds a special place in my heart. It's a movie about war. This particular scene took place in a bar, where a captured German girl was forced to sing for French soldiers. As she started to sing, the rowdy crowd became silent. The soldiers started to hum along and many of them teared up. I vividly remember how the camera moved from face to face and the soldiers' facial expressions changed. This scene is incredibly emotional. I think it is a perfect example to test the app's ability to __identify emotions__. And here are my results using [this clip](https://youtu.be/s3ifRA0Kj-8)
 
 It understands "rowdy"
 
