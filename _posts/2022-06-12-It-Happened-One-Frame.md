@@ -23,7 +23,7 @@ Natural language supervision allows CLIP to __learn a much broader range of visu
 ## Fun with the app
 ### Yankee Doodle Dandy 
 
-Let's start with a simple example. I want to find a very memorable scene in __Yankee Doodle Dand__. It is toward the end of the movie: as James Cagney (portraying George M. Cohan) leaves the president's office and walks down the stairs in White House, he suddenly starts to tap dance and improvises all the way to the bottom, without once looking down at his feet. It was really a magnificent scene. I searched __"James Cagney dancing down the stairs"__ in [this clip of Yankee Doodle Dandy's final scene](https://youtu.be/v1rkzUIL8oc). And this is the result 
+Let's start with a simple example. I want to find a very memorable scene in __Yankee Doodle Dandy__. It is toward the end of the movie: as James Cagney (portraying George M. Cohan) leaves the president's office and walks down the stairs in White House, he suddenly starts to tap dance and improvises all the way to the bottom, without once looking down at his feet. It was really a magnificent scene. I searched __"James Cagney dancing down the stairs"__ in [this clip of Yankee Doodle Dandy's final scene](https://youtu.be/v1rkzUIL8oc). And this is the result 
 
 ![James Cagney dancing down the stairs](/images/Cagney.png "James Cagney dancing down the stairs")
 
