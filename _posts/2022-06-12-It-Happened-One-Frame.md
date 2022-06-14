@@ -32,7 +32,7 @@ I really like [this beautiful scene](https://youtu.be/0diCvgWv_ng) from Once upo
 
 Let's first see what the resuls looks like when we simply search for "Deborah dancing". You can see that only half of the times Debrah was facing the camera. And all these shots are pretty close-up. 
 
-![Deborah dancing](/images/Deborah1.png")
+![Deborah dancing](/images/Deborah1.png)
 
 Let's see what happens if we search "Deborah facing the camera". Voila! I think the app understood me correctly and Deborah is now facing the camera in all 4 frames
 
@@ -41,7 +41,7 @@ Let's see what happens if we search "Deborah facing the camera". Voila! I think 
 
 "a wide shot of Deborah practicing her ballet" will get you wide shots:) Now you can see Deborah is wearing a tutu, and she is dancing in a dusty storehouse. Stunning! isn't it? 
 
-![a wide shot of Deborah practicing her ballet](/images/Deboah3.png)
+![a wide shot of Deborah practicing her ballet](/images/Deborah3.png)
 
 
 #### Paths of Glory
@@ -90,7 +90,7 @@ If I search "she introduce Brad Pitt as Italian stuntman", I got the exact frame
 
 ![She introduce Brad Pitt as Italian stuntman](/images/stuntman.png) 
 
-Now let's make it even more fun! what if I search "Bridget introduced Brad Pitt as camera assistant Dominick"? This is a lie - she introduced Omar as the camera assistant, not Brad Pitt. We already knew that the app recognizes Brad Pitt. What would the it do now?  Looks like we've fooled it 
+Now let's make it even more fun! what if I search "Bridget introduced Brad Pitt as camera assistant Dominick"? This is a lie - she introduced Omar as the camera assistant, not Brad Pitt. We already knew that the app recognizes Brad Pitt. What would the it do now?  Looks like it abandoned Brad Pitt! 
 
 ![Bridget introduced Brad Pitts as camera assistant Dominick](/images/Dominick.png)
 
