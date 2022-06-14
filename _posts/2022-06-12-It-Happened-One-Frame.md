@@ -30,7 +30,7 @@ My search query is simple. It includes a person (James Cagney), an object (stair
 
 ### Once upon a Time in America
 
-I really like [this beautiful scene](https://youtu.be/0diCvgWv_ng) from __Once upon a Time in America__, where the young Deborah (played by Jennifer Connelly) is practicing ballet dance in her parents' restaurant. This clip I found only contains the dance sequence. I want to use it as an example to show you __how you can search for frames from specific angels and perspectives__. 
+I really like [this beautiful scene](https://youtu.be/0diCvgWv_ng) from __Once upon a Time in America__, where the young Deborah (played by Jennifer Connelly) is practicing ballet dance in her parents' restaurant. [This clip](https://youtu.be/0diCvgWv_ng) I found only contains the dance sequence. I want to use it as an example to show you __how you can search for frames from specific angels and perspectives__. 
 
 Let's first see what the result looks like when we simply search for __"Deborah dancing"__. You can see that all these shots are pretty close-up, and Debrah was facing the camera only half of the time.
 
