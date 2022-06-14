@@ -34,8 +34,6 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-show_excerpts: true
-
 defaults:
   - scope:
       path: ""

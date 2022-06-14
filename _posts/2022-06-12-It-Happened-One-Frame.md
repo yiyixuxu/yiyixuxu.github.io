@@ -88,11 +88,11 @@ If I search __"Landa asked Bridget a question"__, 3 of the 4 frames in the resul
 
 ![Landa asked Bridget a question](/images/question.png)
 
-If I search __"she introduce Brad Pitt as Italian stuntman"__, it returned the exact frames where the subtitle says "This is a wonderfurl Italian stuntman, Enzo Gorlomi". There is no way it could have done this without the ability to read subtitles robustly.  
+If I search __"she introduce Brad Pitt as Italian stuntman"__, it returned the exact frames where the subtitle says "This is a wonderfurl Italian stuntman, Enzo Gorlomi". There is no way it's able to identify Brad Pitt as the "stuntman" just based on the image without the ability to read subtitles robustly.  
 
 ![She introduce Brad Pitt as Italian stuntman](/images/stuntman.png) 
 
-Now let's make it even more fun! What if I search __"Bridget introduced Brad Pitt as camera assistant Dominick"__? This is a lie because she introduced Omar as the camera assistant, not Brad Pitt. We already knew that the app recognizes Brad Pitt. What would it do now?  Ohhh looks like it abandoned Brad Pitt:P
+Now let's make it even more fun! What if I search __"Bridget introduced Brad Pitt as camera assistant Dominick"__? This is a lie because she introduced Omar as the camera assistant, not Brad Pitt. And we already knew that the app recognizes Brad Pitt. What would it do now?  Ohhh looks like it abandoned Brad Pitt :P
 
 ![Bridget introduced Brad Pitts as camera assistant Dominick](/images/Dominick.png)
 
