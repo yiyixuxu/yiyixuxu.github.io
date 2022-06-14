@@ -1,11 +1,11 @@
-## It Happened One Frame 
-   demonstrating the amazing power of CLIP model 
+# It Happened One Frame 
+## - demonstrating the amazing power of CLIP model 
 
 I love movies, so as a fun project, I created an app - which you can use [here](https://huggingface.co/spaces/YiYiXu/it-happened-one-frame-2) - that lets you search frames from YouTube videos based on the text you type in. It’s named “It Happened One Frame”, in tribute to the classic 1934 romantic comendy "It Happened One Night".
 
 To use this app, all you need is the link to a Youtube video. For example,  you could search “Macaulay Culkin screams with hands on his cheeks” in a [Home Alone movie clip](https://youtu.be/7EOpoRn9_NA) and get the screenshots that capture the most iconic scene in this classic. 
 
-![alternative text](/images/Macaulay Culkin screams with hands on his cheeks.png "Macaulay Culkin screams with hands on his cheeks")
+![Macaulay Culkin screams with hands on his cheeks](/images/Macaulay Culkin screams with hands on his cheeks.png)
 
 This particular image is so popular that you can easily get it from a google search. But with the app, you will be able to search for any scene in any movie as long as you can describe it with words. It is extremely flexible and can handle a wide range of visual concepts: from people, objects and locations, to more abstract features such as emotions, vibes and religions. It recognizes public figures and comic book super heroes. So if you use the actors' name in your search, very likely the app already knows who they are. Even if it does not recognize the name, it will be able to make a reasonably good guess based on the the context of the query, as well as the race and gender of the name - the same way we humans would do. If your movie clip has subtitles, you can even include the content of the dialog in your search, e.g. you can search “Vizzini says inconceivable” in "The Princess Bride".  You can also give specific commands about how the frame was shot, using phrases such as “close-up shot” or  “a overhead shot”. There are so many ways you can formulate your search query. I have had a lot fun using this app to search and revisit some of my favorite movie scenes. The results are astonishingly accurate. It almost feel like magic. I’m going to share some examples with you in this post. But firstly, I want to talk about the incredibly powerful model that made this magic happen - the CLIP model.
 
