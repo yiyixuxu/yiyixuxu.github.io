@@ -1,6 +1,6 @@
 # It Happened One Frame: incredibly accurate video content search using the OpenAI CLIP model
 
-I love movies, so as a fun project, I created an app - which you can use [here](https://huggingface.co/spaces/YiYiXu/it-happened-one-frame-2) - that lets you search frames from YouTube videos based on the text you type in. It’s named “It Happened One Frame”, in tribute to the classic 1934 romantic comedy "It Happened One Night".
+I love movies, so as a fun exercise for my [fast.ai](https://www.fast.ai/) course, I created an app - which you can use [here](https://huggingface.co/spaces/YiYiXu/it-happened-one-frame-2) - that lets you search frames from YouTube videos based on the text you type in. It’s named “It Happened One Frame”, in tribute to the classic 1934 romantic comedy "It Happened One Night".
 
 To use this app, __all you need is the link to a Youtube video__. For example,  you could search “Macaulay Culkin screams with hands on his cheeks” in a [Home Alone movie clip](https://youtu.be/7EOpoRn9_NA) and get the screenshots that capture the most iconic scene in this classic. 
 
