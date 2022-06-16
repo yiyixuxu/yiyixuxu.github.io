@@ -1,4 +1,4 @@
-# It Happened One Frame: incredibly accurate video content search using the OpenAI CLIP model
+# It Happened One Frame: incredibly accurate video content search with OpenAI CLIP
 
 I love movies, so as a fun exercise for my [fast.ai](https://www.fast.ai/) course, I created an app - which you can use [here](https://huggingface.co/spaces/YiYiXu/it-happened-one-frame-2) - that lets you search frames from YouTube videos based on the text you type in. It’s named “It Happened One Frame”, in tribute to the classic 1934 romantic comedy "It Happened One Night".
 
