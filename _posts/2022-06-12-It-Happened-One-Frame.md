@@ -104,7 +104,7 @@ Now let's make it even more fun! What if I search __"Bridget introduced Brad Pit
 In this post, we've seen examples demonstrating how well CLIP understands what's happening inside each frame of a movie. CLIP is truly an incredible and powerful model. Feel free to play with [the app](https://huggingface.co/spaces/YiYiXu/it-happened-one-frame-2) yourself and [let me know](https://twitter.com/YiYiMarz) what you found:) 
 
 
-_[discussion Hacker News](https://news.ycombinator.com/item?id=31767453)
+*[discussion Hacker News](https://news.ycombinator.com/item?id=31767453)
 
 
 
